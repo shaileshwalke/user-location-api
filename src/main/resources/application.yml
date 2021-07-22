@@ -1,0 +1,9 @@
+server:
+  port: 8082
+
+userServiceEndpointUrl: https://bpdts-test-app.herokuapp.com/
+cityList:
+  london:
+    latitude: 51.50853
+    longitude: -0.12574
+
