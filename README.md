@@ -23,6 +23,7 @@ Go to root directory of your project and run following command
 http://localhost:8082/city/london/users
 
 ####Response
+```
 [{
   "id": 998,
   "first_name": "Thelma",
@@ -32,3 +33,4 @@ http://localhost:8082/city/london/users
   "latitude": 14.6099284,
   "longitude": 121.0348405
 }]
+```
